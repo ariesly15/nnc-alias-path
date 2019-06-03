@@ -2,7 +2,7 @@
     "name": "nnc-alias-path",
     "displayName": "nnc-alias-path",
     "description": "nnc-alias-path",
-    "version": "1.0.2",
+    "version": "1.0.0",
     "publisher": "codeleey",
     "engines": {
         "vscode": "^1.34.0"
@@ -53,8 +53,5 @@
         "eslint": "^5.13.0",
         "@types/node": "^10.12.21",
         "@types/mocha": "^2.2.42"
-    },
-    "dependencies": {
-        "glob": "^7.1.4"
     }
 }
